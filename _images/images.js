@@ -1,1 +1,1 @@
-# tratamento das imagens
+console.log ("tratamento das imagens")
